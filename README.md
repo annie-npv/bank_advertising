@@ -1,6 +1,4 @@
-# bank_advertising
-
-## Analysis of Bank Marketing Dataset
+# Analysis of Bank Marketing Dataset
 Annie Nguyen
 
 This repository contains an analysis of a dataset derived from direct marketing campaigns conducted by a Portuguese banking institution. The dataset includes client data and outcomes of marketing campaigns.
